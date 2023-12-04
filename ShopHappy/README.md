@@ -1,10 +1,4 @@
 # Penjualan Laravel
-<br>
- <p align="center">
- <a href="https://ibb.co/wLtMZXx"><img src="https://i.ibb.co/3sKB5qL/dashboard.png" alt="dashboard" border="0"></a>
- </p>
-
- <br /> 
 
 ## Fitur
 
@@ -20,24 +14,9 @@
 - masih banyak kekurangan.
 - Masih dalam tahap pengembangan, dan entah kapan mau dilanjut.
 
-
-
 ## Framework
 
 - Laravel
-
-
-
-## Screenshoots
-
- <p align="center">
-<a href="https://ibb.co/Gp9q8s9"><img src="https://i.ibb.co/sRCZN5C/keranjang.png" alt="keranjang" border="0"></a>
-<br><br>
-<a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
-<br><br>
-<a href="https://ibb.co/JdWcT7Z"><img src="https://i.ibb.co/z5WmgRd/kas.png" alt="kas" border="0"></a>
-
-</p>
 
 ## Instalasi
 
